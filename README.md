@@ -1,4 +1,4 @@
-#### START OF README
+
 
 ## NOTICE RELATING TO COMPARISON
 
@@ -8,4 +8,3 @@
 
 ``Go ahead. Sources get oudated and you still will learn nothing.``
 
-#### END OF README
